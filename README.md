@@ -1,8 +1,6 @@
 # OOP-Lab
 This repository is for save java code that coding as homework or lab.
 
-I'm created this for next year bachelor.
-
 List of lab file:
 
 ------LAB 1-----
