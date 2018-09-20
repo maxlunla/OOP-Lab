@@ -21,4 +21,10 @@ List of lab file:
 
 ------LAB 6-----
 
+1.
+2. ComplexNumber.java
+3. Employee.java
+4. Manager.java
+5. EmployeeInter.java
+
 ------LAB 7-----
